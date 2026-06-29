@@ -17,7 +17,7 @@ $sig_res - Post-buckling residual stress.\
 $R0 -  Initial value of the GMP curvature parameter R. Default 15.\
 $cR1 - GMP R-degradation coefficient 1. Default 0.925.\
 $cR2 -  GMP R-degradation coefficient 2. Default 0.15.\
-<$a1 - Isotropic hardening, compression side magnitude. Default 0.\
+$a1 - Isotropic hardening, compression side magnitude. Default 0.\
 $a2 - Isotropic hardening, compression side reference strain scale. Default 1.\
 $a3 - Isotropic hardening, tension side magnitude. Default 0.\
 $a4 - Isotropic hardening, tension side reference strain scale. Default 1.\
