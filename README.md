@@ -9,8 +9,8 @@ $Fy - Yield stress.\
 $E0 - Young's modulus.\
 $b - Strain hardening ratio.\
 $eps_buck - Local buckling strian.\
-$b1 - First softening ratio 1, b1\*E0.\
-$b2 - Second softening ratio 2, b2\*E0.\
+$b1 - Softening ratio 1, b1\*E0.\
+$b2 - Reduced softening ratio 2, b2\*E0.\
 $lambda - Reference cumulative strain capacity at the fibre level.\
 $c - Defines the rate of cyclic deterioration, c = 1.0.\
 $sig_res - Post-buckling residual stress.\
